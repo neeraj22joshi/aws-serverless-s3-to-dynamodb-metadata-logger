@@ -1,0 +1,11 @@
+aws-serverless-s3-to-dynamodb-metadata-logger/
+│
+├── README.md
+├── architecture/
+│   └── architecture-diagram.png   (optional placeholder)
+│
+├── lambda/
+│   └── S3MetadataWriter.py
+│
+└── infra/
+    └── resource-names.md
